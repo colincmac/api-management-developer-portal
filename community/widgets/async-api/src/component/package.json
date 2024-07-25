@@ -1,0 +1,9 @@
+{
+  "name": "async-api",
+  "version": "0.0.1",
+  "dependencies": {
+    "styled-components": "^5.0.0",
+    "@asyncapi/react-component": "^2.1.1",
+    "web-react-components": "^1.4.2"
+  }
+}
